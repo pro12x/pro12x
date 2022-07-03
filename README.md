@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Franchis Janel MOKOMBA sous le pseudonyme @pro12x
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning Web and Mobile Technologies
 - 💞️ I’m looking to collaborate on many programming projects
 - 📫 I can be reached at the address proverbesaffranchis@outlook.fr
 
