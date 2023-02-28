@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Franchis Janel MOKOMBA sous le pseudonyme @pro12x
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Web and Mobile Technologies
-- 💞️ I’m looking to collaborate on many programming projects
-- 📫 I can be reached at the address proverbesaffranchis@outlook.fr
+# 👋 Hi, I’m Franchis Janel MOKOMBA sous le pseudonyme @pro12x
+# 👀 I’m interested in programming
+# 🌱 I’m currently learning Web and Mobile Technologies
+# 💞️ I’m looking to collaborate on many programming projects
+# 📫 I can be reached at the address proverbesaffranchis@outlook.fr
 
 <!---
 pro12x/pro12x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
