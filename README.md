@@ -22,7 +22,7 @@
 [![sql](https://img.shields.io/badge/c_sharp-black?style=for-the-badge&logo=c-sharp)](https://github.com/pro12x)
 [![sql](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/pro12x)
 
-### Technologies & Frameworks
+### Technologies
 [![springboot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=spring)](https://github.com/pro12x)
 [![laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/pro12x)
 [![angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/pro12x)
