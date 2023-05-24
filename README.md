@@ -1,8 +1,14 @@
-# <center>Hello Guys<img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></center>
-#### <center>Welcome to my GitHub</center>
-*<center>I am Franchis, <br>For me, every day is a learning experience and a new opportunity that is best taken. <br>Open for collaboration and to contribute to all kinds of interesting and innovative projects.<br><br>
-[![alt LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/franchisjanelmokomba)
-[![alt Resume](https://img.shields.io/badge/Welovedevs-blue?style=flat-square&logo=)](https://www.linkedin.com/in/franchisjanelmokomba)</center>*
+<h1 align="center">Hello Guys<img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<p align="center">
+    <b>Welcome to my GitHub</b><br><br>
+    <i>I am Franchis, <br>For me, every day is a learning experience and a new opportunity that is best taken. <br>Open for collaboration and to contribute to all kinds of interesting and innovative projects.</i><br><br>
+    <a href="https://www.linkedin.com/in/franchisjanelmokomba">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="https://www.linkedin.com/in/franchisjanelmokomba">
+        <img src="https://img.shields.io/badge/Welovedevs-blue?style=flat-square&logo=" alt="LinkedIn">
+    </a>
+</p>
 
 ### Languages
 [![jee](https://img.shields.io/badge/jee-black?style=for-the-badge&logo=openjdk)](https://github.com/pro12x)
