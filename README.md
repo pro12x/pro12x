@@ -3,10 +3,13 @@
     <b>Welcome to my GitHub</b><br><br>
     <i>I am Franchis, <br>For me, every day is a learning experience and a new opportunity that is best taken. <br>Open for collaboration and to contribute to all kinds of interesting and innovative projects.</i><br><br>
     <a href="https://www.linkedin.com/in/franchisjanelmokomba">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://www.linkedin.com/in/franchisjanelmokomba">
-        <img src="https://img.shields.io/badge/Welovedevs-blue?style=flat-square&logo=" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/Welovedevs-black?style=flat-square&logo=" alt="LinkedIn">
+    </a>
+    <a href="wa.link/1438x2">
+        <img src="https://img.shields.io/badge/Whatsapp-black?style=flat-square&logo=whatsapp" alt="LinkedIn">
     </a>
 </p>
 
