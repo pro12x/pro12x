@@ -1,4 +1,4 @@
-<h1 align="center">Hello Guys<img src="https://cdn.pixabay.com/animation/2022/07/31/15/26/15-26-01-814_512.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Hello Guys <img src="https://cdn.pixabay.com/animation/2022/07/31/15/26/15-26-01-814_512.gif" width="28px" alt="👋"></h1>
 <p align="center">
     <b>Welcome to my GitHub</b><br><br>
     <i>I am Franchis, <br>For me, every day is a learning experience and a new opportunity that is best taken. <br>Open for collaboration and to contribute to all kinds of interesting and innovative projects.</i><br><br>
