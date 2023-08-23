@@ -1,4 +1,4 @@
-<h1 align="center">Hello Guys<img src="[https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d](https://avatars.githubusercontent.com/u/94647573?s=400&u=6f8328ee6300896754474e72297a3fdfef2fd97f&v=4)" width="28px" alt="👋"></h1>
+<h1 align="center">Hello Guys<img src="https://cdn.pixabay.com/photo/2017/08/05/11/24/logo-2582757_1280.png" width="28px" alt="👋"></h1>
 <p align="center">
     <b>Welcome to my GitHub</b><br><br>
     <i>I am Franchis, <br>For me, every day is a learning experience and a new opportunity that is best taken. <br>Open for collaboration and to contribute to all kinds of interesting and innovative projects.</i><br><br>
