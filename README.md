@@ -21,7 +21,7 @@
 [![c](https://img.shields.io/badge/c_language-black?style=for-the-badge&logo=c)](https://github.com/pro12x)
 [![sql](https://img.shields.io/badge/c_sharp-black?style=for-the-badge&logo=c-sharp)](https://github.com/pro12x)
 [![sql](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/pro12x)
-[![sql](https://img.shields.io/badge/go-black?style=for-the-badge&logo=golang)](https://github.com/pro12x)
+[![sql](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/pro12x)
 
 ### Technologies
 [![springboot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=spring)](https://github.com/pro12x)
