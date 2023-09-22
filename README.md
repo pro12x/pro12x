@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/franchisjanelmokomba">
         <img src="https://img.shields.io/badge/Welovedevs-black?style=flat-square&logo=" alt="LinkedIn">
     </a>
-    <a href="wa.link/1438x2">
+    <a href="https://wa.link/1438x2">
         <img src="https://img.shields.io/badge/Whatsapp-black?style=flat-square&logo=whatsapp" alt="LinkedIn">
     </a>
 </p>
