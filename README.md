@@ -36,7 +36,7 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/pro12x)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/pro12x)
-[![Franchis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pro12x&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/pro12x/)
+<!--[![Franchis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pro12x&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/pro12x/)-->
 
 <details>
 <p align="center">
