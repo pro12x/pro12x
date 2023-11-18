@@ -43,13 +43,13 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pro12x&theme=transparent" />
   </a>
   <a href="https://github.com/pro12x">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pro12x&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pro12x&hide_border=true&card_width=338&hide_progress=true&layout=compact" />
   </a>
   <a href="https://github.com/pro12x">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pro12x&card_width=338&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pro12x&card_width=338&hide_progress=true&layout=compact" />
   </a>
   <a href="https://github.com/pro12x">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro12x&card_width=338&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro12x&card_width=338&hide_progress=true&layout=compact" />
   </a>
 </p>
 </details>
