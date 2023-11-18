@@ -49,7 +49,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pro12x&theme=transparent" />
   </a>
   <a href="https://github.com/pro12x">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro12x&hide_progress=true&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro12x&theme=transparent" />
   </a>
 </p>
 </details>
