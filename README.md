@@ -36,20 +36,24 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/pro12x)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/pro12x)
+[![Franchis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pro12x&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/pro12x/)
 
 <details>
 <p align="center">
   <a href="https://github.com/pro12x">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pro12x&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pro12x&hide_border=true&theme=transparent" />
   </a>
   <a href="https://github.com/pro12x">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pro12x&hide_border=true&card_width=338&hide_progress=true&layout=compact" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pro12x&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/pro12x">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pro12x&card_width=338&hide_progress=true&layout=compact" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pro12x&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/pro12x">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro12x&card_width=338&hide_progress=true&layout=compact" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pro12x&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/pro12x">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro12x&hide_border=true&card_width=338&theme=transparent" />
   </a>
 </p>
 </details>
