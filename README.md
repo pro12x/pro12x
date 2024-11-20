@@ -18,10 +18,10 @@
 [![php](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/pro12x)
 [![javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/pro12x)
 [![c](https://img.shields.io/badge/c_language-black?style=for-the-badge&logo=c)](https://github.com/pro12x)
-[![sql](https://img.shields.io/badge/c_sharp-black?style=for-the-badge&logo=c-sharp)](https://github.com/pro12x)
-[![sql](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/pro12x)
-[![sql](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/pro12x)
-[![sql](https://img.shields.io/badge/go-black?style=for-the-badge&logo=rust)](https://github.com/pro12x)
+[![c#](https://img.shields.io/badge/c_sharp-black?style=for-the-badge&logo=c-sharp)](https://github.com/pro12x)
+[![mysql](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/pro12x)
+[![go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/pro12x)
+[![rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/pro12x)
 
 ### Technologies
 [![springboot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=spring)](https://github.com/pro12x)
