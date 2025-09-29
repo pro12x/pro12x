@@ -35,6 +35,7 @@
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/pro12x)
 [![asp](https://img.shields.io/badge/asp-black?style=for-the-badge&logo=dotnet)](https://github.com/pro12x)
 [![flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/pro12x)
+[![Puppeteer](https://img.shields.io/badge/puppeteer-black?style=for-the-badge&logo=puppeteer)](https://github.com/pro12x)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/pro12x)
