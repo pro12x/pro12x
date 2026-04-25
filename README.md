@@ -1,69 +1,92 @@
-<h1 align="center">Hello Guys <img src="https://cdn.pixabay.com/animation/2022/07/31/15/26/15-26-01-814_512.gif" width="28px" alt="👋"></h1>
-<p align="center">
-    <b>Welcome to my GitHub</b><br><br>
-    <a href="https://www.linkedin.com/in/franchisjanelmokomba">
-        <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="https://www.linkedin.com/in/franchisjanelmokomba">
-        <img src="https://img.shields.io/badge/Welovedevs-black?style=flat-square&logo=" alt="LinkedIn">
-    </a>
-    <a href="https://wa.link/1438x2">
-        <img src="https://img.shields.io/badge/Whatsapp-black?style=flat-square&logo=whatsapp" alt="LinkedIn">
-    </a>
-</p>
+<div align="center">
 
-### Languages
-[![jee](https://img.shields.io/badge/jee-black?style=for-the-badge&logo=openjdk)](https://github.com/pro12x)
-[![java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/pro12x)
-[![php](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/pro12x)
-[![javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/pro12x)
-[![c](https://img.shields.io/badge/c_language-black?style=for-the-badge&logo=c)](https://github.com/pro12x)
-[![c#](https://img.shields.io/badge/c_sharp-black?style=for-the-badge&logo=c-sharp)](https://github.com/pro12x)
-[![mysql](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/pro12x)
-[![go](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/pro12x)
-[![rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/pro12x)
-[![kotlin](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)](https://github.com/pro12x)
-[![dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/pro12x)
+```
+███████╗██████╗  ██████╗ ██╗██████╗  ██╗██╗  ██╗
+██╔════╝██╔══██╗██╔═══██╗██║╚════██╗ ╚╝ ╚██╗██╔╝
+█████╗  ██████╔╝██║   ██║██║ █████╔╝     ╚███╔╝ 
+██╔══╝  ██╔═══╝ ██║   ██║██║██╔═══╝      ██╔██╗ 
+██║     ██║     ╚██████╔╝██║███████╗     ██╔╝ ██╗
+╚═╝     ╚═╝      ╚═════╝ ╚═╝╚══════╝     ╚═╝  ╚═╝
+```
 
-### Technologies
-[![springboot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=spring)](https://github.com/pro12x)
-[![laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/pro12x)
-[![angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/pro12x)
-[![html5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/pro12x)
-[![css3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/pro12x)
-[![wordpress](https://img.shields.io/badge/wordpress-black?style=for-the-badge&logo=wordpress)](https://github.com/pro12x)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/pro12x)
-[![asp](https://img.shields.io/badge/asp-black?style=for-the-badge&logo=dotnet)](https://github.com/pro12x)
-[![flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/pro12x)
-[![Puppeteer](https://img.shields.io/badge/puppeteer-black?style=for-the-badge&logo=puppeteer)](https://github.com/pro12x)
+### `Franchis Janel MOKOMBA`
 
-### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/pro12x)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/pro12x)
-<!--[![Franchis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pro12x&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/pro12x/)-->
+**Software Engineer**
 
-<details>
-<p align="center">
-  <a href="https://github.com/pro12x">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pro12x&hide_border=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/pro12x">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pro12x&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/pro12x">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pro12x&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/pro12x">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pro12x&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/pro12x">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro12x&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-</p>
-</details>
+![Location](https://img.shields.io/badge/📍_Dakar,_Sénégal-black?style=flat-square)
+![Available](https://img.shields.io/badge/🟢_Open-black?style=flat-square)
 
-<p align="center">
-  <a href="https://github.com/pro12x">
-    <img src="https://komarev.com/ghpvc/?username=pro12x&color=blue&style=flat)" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franchisjanelmokomba)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pro12x)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.link/1438x2)
+[![CodinGame](https://img.shields.io/badge/CodinGame-FF4154?style=flat-square&logo=codingame&logoColor=yellow)](https://www.codingame.com/profile/fbe2268b1a9bf2d0ad782c2c59278fd94671566)
+
+</div>
+
+---
+
+## `Tech stack`
+
+### Core Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ACD7?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-3178C6?style=for-the-badge&logo=javascript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7B68EE?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### Frameworks & Tools
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-0052CC?style=for-the-badge&logo=puppeteer&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-0052CC?style=for-the-badge&logo=playwright&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+### OS & Environment
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+## `github stats`
+
+<div align="center">
+
+<a href="https://github.com/pro12x">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pro12x&show_icons=true&theme=transparent&hide_border=true&title_color=639922&icon_color=639922&text_color=888780&count_private=true" />
+</a>
+<a href="https://github.com/pro12x">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro12x&layout=compact&theme=transparent&hide_border=true&title_color=639922&text_color=888780" />
+</a>
+
+<a href="https://github.com/pro12x">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pro12x&bg_color=transparent&color=888780&line=639922&point=3B6D11&area=true&hide_border=true" />
+</a>
+
+<a href="https://github.com/pro12x">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pro12x&theme=transparent&hide_border=true&ring=639922&fire=f89820&currStreakLabel=639922" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+`// Always be building` · `pro12x` · Dakar 🇸🇳
+
+![Profile Views](https://komarev.com/ghpvc/?username=pro12x&color=639922&style=flat-square&label=profile+views)
+
+</div>
